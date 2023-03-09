@@ -1,0 +1,12 @@
+Appliance	MlKNN	MlKNN-daug	CNN	CNN-daug
+bathroom_gfi	0.869	0.806	0.954	0.652
+dishwaser	0.641	0.520	0.966	0.576
+disposal	0.971	1.000	1.000	0.731
+electronics	0.953	0.747	1.000	0.667
+furance	0.744	0.522	0.520	0.354
+kitchen_outlets	0.895	0.819	0.839	0.451
+lighting	0.482	0.553	0.508	0.601
+microwave	0.780	0.509	0.816	0.348
+outlets_unknown	0.809	0.894	0.923	0.806
+refrigerator	0.282	0.244	0.188	0.136
+washer_dryer	0.859	0.844	0.532	0.348
